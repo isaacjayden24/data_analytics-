@@ -1,3 +1,4 @@
+import streamlit as st 
 import pandas as pd
 data=pd.read_csv("gapminder_with_code.CSV")
 #read data from specific time
